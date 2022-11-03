@@ -77,7 +77,7 @@ The META Simulator requires an abundance profile TSV. An *abundance profile* is 
 1529886	0.10	1
 198094	0.10	1
 ```
-An example TSV is included within the Docker container in `data/test/strawman_envassay.tsv`.
+An example TSV is included within the Docker container in `data/strawman_envassay.tsv`.
 
 The META Simulator accepts the following arguments:
 
